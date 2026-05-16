@@ -31,7 +31,8 @@
 > - Long waiters (52w+ and 104w+)
 > - Actual vs predicted waiting list size
 
-*See `dashboard/nhs_rtt_dashboard.html` — download and open in any browser.*
+*See `dashboard/nhs_rtt_dashboard.html`
+https://nhs-rtt-waiting-time-analysis.streamlit.app/ — download and open in any browser.*
 
 ---
 
